@@ -1,8 +1,8 @@
 ### Hi, I'm Smart | aka LordEaster 👋
 
-## I'm a Student, Developer, and Little Zookeeper 🐰
+## I'm ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23000000&lines=Student;Developer;Little+ZooKeeper;BLINK;UAENA;MIDZY;OTA;MY)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23000000&lines=Student;Developer;Little+ZooKeeper;BLINK;UAENA;MIDZY;OTA;MY)](https://git.io/typing-svg)
+
 
 ### My social media 🌏
 
