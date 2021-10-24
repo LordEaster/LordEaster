@@ -8,7 +8,7 @@
 [<img align="left" alt="SMART-LordEaster | Instagram" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Instagram.svg" />][instagram]
 [<img align="left" alt="SMART-LordEaster | Facebook" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Facebook_icon.svg" />][Facebook]
 [<img align="left" alt="SMART-LordEaster | Discord" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/discord_logo.png" />][Discord]
-[DONATION][https://ko-fi.com/yamrolltherabbit]
+(DONATION)[https://ko-fi.com/yamrolltherabbit]
 
 <br />
 
