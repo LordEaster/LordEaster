@@ -1,6 +1,6 @@
 ### Hi, I'm Smart | aka LordEaster 👋
 
-## I'm ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23000000&lines=Student;Developer;Little+ZooKeeper;BLINK;UAENA;MIDZY;OTA;MY)
+## I'm  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23000000&vCenter=true&height=20&lines=Student+📚;Developer+🧑‍💻;Little+ZooKeeper+🐰;BLINK;UAENA;MIDZY;OTA;MY)
 
 
 
