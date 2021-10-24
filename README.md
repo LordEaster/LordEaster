@@ -8,7 +8,6 @@
 [<img align="left" alt="SMART-LordEaster | Instagram" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Instagram.svg" />][instagram]
 [<img align="left" alt="SMART-LordEaster | Facebook" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Facebook_icon.svg" />][Facebook]
 [<img align="left" alt="SMART-LordEaster | Discord" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/discord_logo.png" />][Discord]
-(DONATION)[https://ko-fi.com/yamrolltherabbit]
 
 <br />
 
@@ -27,8 +26,8 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/SMART-LordEaster
-[youtube]: https://youtube.com/SMART-LordEaster
-[Facebook]: http
-[instagram]: https://instagram.com/SMART-LordEaster
-[Discord]: https://linkedin.com/in/SMART-LordEaster
+[twitter]: https://twitter.com/Smartnp_
+[youtube]: https://www.youtube.com/channel/UCTATMAKrNx_x4pPRFLrg4xg
+[Facebook]: https://www.facebook.com/Smart.Natnawat
+[instagram]: https://www.instagram.com/smart_np
+[Discord]: http://yamroll.cyou/discord
