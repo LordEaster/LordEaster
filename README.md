@@ -3,6 +3,9 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23000000&vCenter=true&height=16&lines=Student+📚;Developer;Little+ZooKeeper+🐰;BLINK;UAENA;MIDZY;OTA;MY)
 
 
+## 🌏 My Community
+
+[![Community](https://discordapp.com/api/guilds/420946078599217153/widget.png?style=banner2)](http://yamroll.cyou/discord) [![Community](https://discordapp.com/api/guilds/850984842895556619/widget.png?style=banner2)](https://discord.io/legendaryofknight)
 
 ### My social media 🌏
 
