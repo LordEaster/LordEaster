@@ -2,6 +2,8 @@
 
 ## I'm a Student, Developer, and Little Zookeeper 🐰
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23000000&lines=Student;Developer;Little+ZooKeeper;BLINK;UAENA;MIDZY;OTA;MY)](https://git.io/typing-svg)
+
 ### My social media 🌏
 
 [<img align="left" alt="SMART-LordEaster | Twitter" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Twitter_bird_logo.svg" />][twitter]
