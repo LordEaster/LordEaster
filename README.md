@@ -7,21 +7,21 @@
 [<img align="left" alt="SMART-LordEaster | Twitter" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Twitter_bird_logo.svg" />][twitter]
 [<img align="left" alt="SMART-LordEaster | Instagram" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Instagram.svg" />][instagram]
 [<img align="left" alt="SMART-LordEaster | Facebook" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Facebook_icon.svg" />][Facebook]
-[<img align="left" alt="SMART-LordEaster | Discord" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Discord_logo.svg" />][Discord]
+[<img align="left" alt="SMART-LordEaster | Discord" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/discord_logo.png" />][Discord]
 
 <br />
 
 ### Languages and Tools 🔍
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Visual_Studio_Code_icon.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/HTML5_logo.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/CSS3_logo.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/javascript.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/react.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/nodejs_logo.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/MongoDB_Icon.svg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Git_icon.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/github_logo.svg" />
 
 <br />
 <br />
@@ -30,4 +30,4 @@
 [youtube]: https://youtube.com/SMART-LordEaster
 [Facebook]: http
 [instagram]: https://instagram.com/SMART-LordEaster
-[linkedin]: https://linkedin.com/in/SMART-LordEaster
+[Discord]: https://linkedin.com/in/SMART-LordEaster
