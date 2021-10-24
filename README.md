@@ -5,9 +5,9 @@
 ### My social media 🌏
 
 [<img align="left" alt="SMART-LordEaster | Twitter" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Twitter_bird_logo.svg" />][twitter]
-[<img align="left" alt="SMART-LordEaster | Instagram" width="22px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/c71000ad5174d5cbd614c93f282705dfea14bb5d/Instagram.svg?token=AIK4D2AQW5OW2BKUPYJS5Z3BOUHO4" />][instagram]
-[<img align="left" alt="SMART-LordEaster | Facebook" width="22px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/c71000ad5174d5cbd614c93f282705dfea14bb5d/Facebook_icon.svg?token=AIK4D2HVOOJ3SWTYHZAC5YDBOUHO6" />][Facebook]
-[<img align="left" alt="SMART-LordEaster | Discord" width="22px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/c71000ad5174d5cbd614c93f282705dfea14bb5d/Discord_logo.svg?token=AIK4D2BRI3FJGWGT7NP7KCDBOUHRQ" />][Discord]
+[<img align="left" alt="SMART-LordEaster | Instagram" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Instagram.svg" />][instagram]
+[<img align="left" alt="SMART-LordEaster | Facebook" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Facebook_icon.svg" />][Facebook]
+[<img align="left" alt="SMART-LordEaster | Discord" width="22px" src="https://github.com/LordEaster/ICON-LOGO/blob/main/Discord_logo.svg" />][Discord]
 
 <br />
 
@@ -28,6 +28,6 @@
 
 [twitter]: https://twitter.com/SMART-LordEaster
 [youtube]: https://youtube.com/SMART-LordEaster
-[Facebook]: https://
+[Facebook]: http
 [instagram]: https://instagram.com/SMART-LordEaster
 [linkedin]: https://linkedin.com/in/SMART-LordEaster
