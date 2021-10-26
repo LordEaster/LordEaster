@@ -22,6 +22,7 @@
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Git_icon.svg" />
 <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Github_icon.svg" />
 
+<br />
 
 ## My Community 🌏
 
