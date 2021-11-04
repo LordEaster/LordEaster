@@ -1,6 +1,6 @@
 ### Hi, I'm Smart | aka LordEaster 👋
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F798F6&vCenter=true&height=25&lines=Student+📚;Developer;Little+ZooKeeper+🐰;BLINK;UAENA;MIDZY;OTA;MY)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F798F6&vCenter=true&height=25&lines=Student+📚;Developer;)](https://git.io/typing-svg)
 
 [<img align="left" alt="SMART-LordEaster | Twitter" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Twitter_bird_icon.svg" />][twitter]
 [<img align="left" alt="SMART-LordEaster | Instagram" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Instagram_icon.svg" />][instagram]
