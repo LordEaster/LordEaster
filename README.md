@@ -22,15 +22,6 @@
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Git_icon.svg" />
 <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Github_icon.svg" />
 
-<br />
-
-## My Community 🌏
-
-[![Community](https://discordapp.com/api/guilds/420946078599217153/widget.png?style=banner2)](http://yamroll.cyou/discord) [![Community](https://discordapp.com/api/guilds/850984842895556619/widget.png?style=banner2)](https://discord.io/legendaryofknight)
-
-<br />
-<br />
-
 [twitter]: https://twitter.com/Smartnp_
 [youtube]: https://www.youtube.com/channel/UCTATMAKrNx_x4pPRFLrg4xg
 [Facebook]: https://www.facebook.com/Smart.Natnawat
