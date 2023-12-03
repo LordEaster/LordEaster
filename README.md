@@ -22,8 +22,8 @@
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Git_icon.svg" />
 <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Github_icon.svg" />
 
-[twitter]: https://twitter.com/Smartnp_
+[twitter]: https://twitter.com/withyamroll
 [youtube]: https://www.youtube.com/channel/UCTATMAKrNx_x4pPRFLrg4xg
 [Facebook]: https://www.facebook.com/Smart.Natnawat
 [instagram]: https://www.instagram.com/smart_np
-[Discord]: http://yamroll.cyou/discord
+[Discord]: https://www.withyamroll.com/discord
