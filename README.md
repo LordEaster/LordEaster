@@ -1,29 +1,41 @@
-### Hi, I'm Smart | aka LordEaster 👋
+## 👋 Hi there! I'm Natnawat Panisarasirikul (SMART) | LordEaster
+### I am currently studying Software Engineering at the Faculty of Informatics, Burapha University, Thailand.
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F798F6&vCenter=true&height=25&lines=Student+📚;Developer;)](https://git.io/typing-svg)
+### 🚀 What I’m Working On
+- **JustProj | Project Tracking Tool (in development):** A scalable, customizable task management system.
 
-[<img align="left" alt="SMART-LordEaster | Twitter" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Twitter_bird_icon.svg" />][twitter]
-[<img align="left" alt="SMART-LordEaster | Instagram" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Instagram_icon.svg" />][instagram]
-[<img align="left" alt="SMART-LordEaster | Facebook" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Facebook_icon.svg" />][Facebook]
-[<img align="left" alt="SMART-LordEaster | Discord" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Discord_icon.svg" />][Discord]
+### 🛠️ Past Projects
+- **Game Go Green (On Hold):** Developed an online board game focused on promoting environmental awareness. [See more!](https://github.com/LordEaster/GameGoGreen/releases)
+- **Profile:** Created a website to track and manage the history of student activities.
 
-<br />
+### 🌱 I’m currently learning
+- VueJS
+- MongoDB
+- Machine Learning
 
-### Languages and Tools 🔍
+### ⚡ Fun fact
+- I love creating efficient and user-friendly systems that make managing tasks a breeze.
 
-<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Visual_Studio_Code_icon.svg" />
-<img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/HTML5_icon.svg" />
-<img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/CSS3_icon.svg" />
-<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Javascript_icon.svg" />
-<img align="left" alt="TypeScript" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Typesript_icon.svg" />
-<img align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/react_icon.svg" />
-<img align="left" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/nodejs_icon.svg" />
-<img align="left" alt="MongoDB" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/MongoDB_Icon.svg" />
-<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Git_icon.svg" />
-<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/LordEaster/ICON-LOGO/bc7716e4325805397b5def7cb9d373b8fb43acd0/Github_icon.svg" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smart_np) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/withyamroll) 
 
-[twitter]: https://twitter.com/withyamroll
-[youtube]: https://www.youtube.com/channel/UCTATMAKrNx_x4pPRFLrg4xg
-[Facebook]: https://www.facebook.com/Smart.Natnawat
-[instagram]: https://www.instagram.com/smart_np
-[Discord]: https://www.withyamroll.com/discord
+## 💻 Tech & Tools I’ve Used:
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,css,discordjs,docker,express,firebase,github,html,js,mongodb,mysql,nextjs,nginx,react,ts,ubuntu,vite)](https://skillicons.dev)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lordeaster&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lordeaster&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordeaster&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lordeaster&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lordeaster&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lordeaster&icon=5&color=6)](https://visitcount.itsvg.in)
