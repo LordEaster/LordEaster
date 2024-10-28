@@ -2,15 +2,19 @@
 ### I am currently studying Software Engineering at the Faculty of Informatics, Burapha University, Thailand.
 
 ### 🚀 What I’m Working On
-- **JustProj | Project Tracking Tool (in development):** A scalable, customizable task management system.
-- **PRAMERN | Evaluation Management Tool (in development):** A system for managing evaluations, assign evaluators, track statuses, and modify assignee lists for ongoing evaluations.
+- **JustProj | Project Tracking Tool (in development):** A scalable, customizable task management system. Planned stack includes **Next.js or Vue.js** for the frontend, **Express or Elysia** for the backend, **MongoDB** as the database, and **SuperToken** for authentication.
+- **PRAMERN | Evaluation Management Tool (in development):** A system for managing evaluations, assigning evaluators, tracking statuses, and modifying assignee lists. Built using the **MEVN** stack (**MongoDB, Express, Vue.js, Node.js**) with a pure MongoDB database.
+- **Share Bill:** A Next.js application designed to simplify bill splitting among groups. **Next.js** is used for the frontend, **Express** for the backend, and **MongoDB** for data storage. [Check it out!](https://sharebill.withyamroll.com) | [Repository](https://github.com/LordEaster/share-bill)
+- **BSO Blog:** A collaborative blog platform targeting Software Engineering students, developed with **Next.js, Elysia,** and **PostgreSQL**. CI/CD is managed with **Jenkins**, with **Jest** for testing and **SonarQube** for code scanning. Successful PRs are deployed on Docker. [Visit the blog!](https://blog.bsospace.com) | [Repository Front](https://github.com/BSO-Space/BSOSpace-Blog-Frontend) | [Repository Back](https://github.com/BSO-Space/BSOSpace-Blog-Backend)
 
 ### 🛠️ Past Projects
 - **Game Go Green (On Hold):** Developed an online board game focused on promoting environmental awareness. [See more!](https://github.com/LordEaster/GameGoGreen/releases)
 - **Profile:** Created a website to track and manage the history of student activities.
 
 ### 🌱 I’m currently learning
-- VueJS
+- Vue.js
+- Next.js
+- Elysia
 - MongoDB
 - Machine Learning
 
