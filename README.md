@@ -42,3 +42,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lordeaster&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+### 🎇 My Picture
+<img style="width: 500px" src="https://github.com/user-attachments/assets/04d9a8ce-41b2-4d17-a0e4-fe0f7bc097ed">
+
+
+
