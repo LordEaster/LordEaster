@@ -1,4 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=lordeaster&icon=5&color=6)](https://visitcount.itsvg.in)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30697%26project%3D%26in=86400000)](https://codetime.dev)
 ## 👋 Hi there! I'm Natnawat Panisarasirikul (SMART) | LordEaster
 ### I am currently studying Software Engineering at the Faculty of Informatics, Burapha University, Thailand.
 
