@@ -1,54 +1,91 @@
-[![](https://visitcount.itsvg.in/api?id=lordeaster&icon=5&color=6)](https://visitcount.itsvg.in)
-[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30697%26project%3D%26in=86400000)](https://codetime.dev)
-## 👋 Hi there! I'm Natnawat Panisarasirikul (SMART) | LordEaster
-### I am currently studying Software Engineering at the Faculty of Informatics, Burapha University, Thailand.
+# 👋 Hi, I'm Natnawat Panisarasirikul (SMART) | LordEaster
 
-### 🚀 What I’m Working On
-- **JustProj | Project Tracking Tool (in development):** A scalable, customizable task management system. Planned stack includes **Next.js or Vue.js** for the frontend, **Express or Elysia** for the backend, **MongoDB** as the database, and **SuperToken** for authentication.
-- **PRAMERN | Evaluation Management Tool (in development):** A system for managing evaluations, assigning evaluators, tracking statuses, and modifying assignee lists. Built using the **MEVN** stack (**MongoDB, Express, Vue.js, Node.js**) with a pure MongoDB database.
-- **Share Bill:** A Next.js application designed to simplify bill splitting among groups. **Next.js** is used for the frontend, **Express** for the backend, and **MongoDB** for data storage. [Check it out!](https://sharebill.withyamroll.com) | [Repository](https://github.com/LordEaster/share-bill)
-- **BSO Blog:** A collaborative blog platform targeting Software Engineering students, developed with **Next.js, Elysia,** and **PostgreSQL**. CI/CD is managed with **Jenkins**, with **Jest** for testing and **SonarQube** for code scanning. Successful PRs are deployed on Docker. [Visit the blog!](https://blog.bsospace.com) | [Repository Front](https://github.com/BSO-Space/BSOSpace-Blog-Frontend) | [Repository Back](https://github.com/BSO-Space/BSOSpace-Blog-Backend)
+[![Visit Count](https://visitcount.itsvg.in/api?id=lordeaster&icon=5&color=6)](https://visitcount.itsvg.in)  [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30697%26project%3D%26in=86400000)](https://codetime.dev)
 
-### 🛠️ Past Projects
-- **Game Go Green (On Hold):** Developed an online board game focused on promoting environmental awareness. [See more!](https://github.com/LordEaster/GameGoGreen/releases)
-- **Profile:** Created a website to track and manage the history of student activities.
+---
 
-### 🌱 I’m currently learning
-- Vue.js
-- Next.js
-- Elysia
-- MongoDB
-- Machine Learning
+<table>
+<tr>
+<td width="65%">
 
-### ⚡ Fun fact
-- I love creating efficient and user-friendly systems that make managing tasks a breeze.
+## 🌟 About Me
+Hi! I’m **Natnawat Panisarasirikul**, but you can call me SMART.  
+- 🎓 A passionate **Software Engineering student** at the **Faculty of Informatics, Burapha University, Thailand**.  
+- 🚀 I love creating **efficient, scalable, and user-friendly software systems** that make a tangible impact.  
+- 🔍 I have a strong interest in **AI, web development, and cloud technologies**.  
+- 🐾 **Pet Lover:** Passionate about caring for my rabbits, birds, cat, and turtle.
+- 🎨 Outside coding, I enjoy organizing events, designing creative projects, gaming, and exploring innovative ideas.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smart_np) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/withyamroll) 
 
-## 💻 Tech & Tools I’ve Used:
+> 🌱 **"Adapt, lead with creativity, and inspire through meaningful connections."**
+</td>
+<td align="center">
+
+<img style="width: 300px;" src="https://github.com/user-attachments/assets/04d9a8ce-41b2-4d17-a0e4-fe0f7bc097ed" alt="Profile Picture">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I’m Working On
+Here are some exciting projects I’m currently working on:
+- **JustProj:** A scalable project tracking tool for managing tasks and teams.  
+  - **Stack:** Next.js/Vue.js, Express, MongoDB  
+- **PRAMERN:** An evaluation management system with a focus on tracking and assigning evaluations.  
+  - **Stack:** MEVN (MongoDB, Express, Vue.js, Node.js)  
+- **Attendify:** A modern attendance tracking and management system.  
+  - **Stack:** React, Node.js, PostgreSQL
+
+---
+
+## 🛠️ Past Projects
+| Project Name       | Description                                                | Links                                  |
+|--------------------|------------------------------------------------------------|----------------------------------------|
+| **Share Bill**     | A web app that simplifies bill splitting among groups.      | [GitHub Repo](https://github.com/LordEaster/share-bill), [Visit Project](https://sharebill.bsospace.com) |
+| **Game Go Green**  | Online board game promoting environmental awareness.        | [GitHub Repo](https://github.com/LordEaster/GameGoGreen/releases) |
+
+---
+
+## 🌱 Learning Journey
+Technologies and concepts I’m currently diving into:
+- **Frontend Development:** Vue.js, Next.js  
+- **Backend Development:** MongoDB, Express  
+- **AI and Machine Learning:** Exploring neural networks and data-driven insights  
+
+---
+
+## 💻 Tech Stack & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,css,discordjs,docker,express,firebase,github,html,js,mongodb,mysql,nextjs,nginx,react,ts,ubuntu,vite)](https://skillicons.dev)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lordeaster&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lordeaster&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordeaster&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lordeaster&theme=default&no-frame=false&no-bg=false&margin-w=4)
+<table>
+<tr>
+<td width="50%">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## 📊 GitHub Insights
+![](https://github-readme-stats.vercel.app/api?username=lordeaster&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lordeaster&hide_border=false)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lordeaster&limit=5&theme=default&combine_all_yearly_contributions=true)
+</td>
+<td width="50%">
 
-### 📈 My GitHub Activity
+## 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=lordeaster&no-frame=false&no-bg=false&margin-w=4)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✍️ Inspiring Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+---
+
+## 📈 My GitHub Activity
+![](https://github-contributor-stats.vercel.app/api?username=lordeaster&limit=5&combine_all_yearly_contributions=true)<br>
 ![Snake animation](https://raw.githubusercontent.com/lordeaster/lordeaster/refs/heads/output/github-contribution-grid-snake.svg)
-
-### 🎇 My Picture
-<img style="width: 500px" src="https://github.com/user-attachments/assets/04d9a8ce-41b2-4d17-a0e4-fe0f7bc097ed">
-
-
-
