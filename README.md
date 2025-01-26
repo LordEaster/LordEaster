@@ -1,9 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Natnawat Panisarasirikul (SMART) | LordEaster
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30697%26project%3D%26in=86400000)](https://codetime.dev)
----
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Natnawat Panisarasirikul (SMART) | LordEaster
 
 ## 🌟 About Me
-<img style="width: 230px;" align='right' src="https://github.com/user-attachments/assets/04d9a8ce-41b2-4d17-a0e4-fe0f7bc097ed" alt="Natnawat Panisarasirikul">
+<img style="width: 200px;" align='right' src="https://github.com/user-attachments/assets/04d9a8ce-41b2-4d17-a0e4-fe0f7bc097ed" alt="Natnawat Panisarasirikul">
 
 Hi! I’m **Natnawat Panisarasirikul**, but you can call me SMART.  
 - 🎓 A passionate **Software Engineering student** at the **Faculty of Informatics, Burapha University, Thailand**.  
