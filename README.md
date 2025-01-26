@@ -1,14 +1,10 @@
-# 👋 Hi, I'm Natnawat Panisarasirikul (SMART) | LordEaster
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=lordeaster&icon=5&color=6)](https://visitcount.itsvg.in)  [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30697%26project%3D%26in=86400000)](https://codetime.dev)
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Natnawat Panisarasirikul (SMART) | LordEaster
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30697%26project%3D%26in=86400000)](https://codetime.dev)
 ---
 
-<table>
-<tr>
-<td width="65%">
-
 ## 🌟 About Me
+<img style="width: 230px;" align='right' src="https://github.com/user-attachments/assets/04d9a8ce-41b2-4d17-a0e4-fe0f7bc097ed" alt="Natnawat Panisarasirikul">
+
 Hi! I’m **Natnawat Panisarasirikul**, but you can call me SMART.  
 - 🎓 A passionate **Software Engineering student** at the **Faculty of Informatics, Burapha University, Thailand**.  
 - 🚀 I love creating **efficient, scalable, and user-friendly software systems** that make a tangible impact.  
@@ -16,16 +12,7 @@ Hi! I’m **Natnawat Panisarasirikul**, but you can call me SMART.
 - 🐾 **Pet Lover:** Passionate about caring for my rabbits, birds, cat, and turtle.
 - 🎨 Outside coding, I enjoy organizing events, designing creative projects, gaming, and exploring innovative ideas.
 
-
 > 🌱 **"Adapt, lead with creativity, and inspire through meaningful connections."**
-</td>
-<td align="center">
-
-<img style="width: 300px;" src="https://github.com/user-attachments/assets/04d9a8ce-41b2-4d17-a0e4-fe0f7bc097ed" alt="Profile Picture">
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -61,31 +48,15 @@ Technologies and concepts I’m currently diving into:
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+<details>
+  <summary> 📊 GitHub Insights </summary>
 
-## 📊 GitHub Insights
-![](https://github-readme-stats.vercel.app/api?username=lordeaster&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lordeaster&hide_border=false)
+  ![](https://github-profile-trophy.vercel.app/?username=lordeaster&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-readme-stats.vercel.app/api?username=lordeaster&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=lordeaster&hide_border=false)
+  ![](https://github-contributor-stats.vercel.app/api?username=lordeaster&limit=5&combine_all_yearly_contributions=true)
 
-</td>
-<td width="50%">
-
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=lordeaster&no-frame=false&no-bg=false&margin-w=4)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
-
-## ✍️ Inspiring Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
----
-
-## 📈 My GitHub Activity
-![](https://github-contributor-stats.vercel.app/api?username=lordeaster&limit=5&combine_all_yearly_contributions=true)<br>
+  
 ![Snake animation](https://raw.githubusercontent.com/lordeaster/lordeaster/refs/heads/output/github-contribution-grid-snake.svg)
