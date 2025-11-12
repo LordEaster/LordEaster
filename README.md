@@ -1,4 +1,4 @@
-[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30697%26project%3D%26in=86400000)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32029%26minutes%3D1440)](https://codetime.dev)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Natnawat Panisarasirikul (SMART) | LordEaster
 
 ## 🌟 About Me
