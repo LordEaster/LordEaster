@@ -1,7 +1,7 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32029%26minutes%3D1440)](https://codetime.dev)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Natnawat Panisarasirikul (SMART) | LordEaster
 
-## 🌟 About Me
+## About Me
 <img style="width: 200px;" align='right' src="https://github.com/user-attachments/assets/04d9a8ce-41b2-4d17-a0e4-fe0f7bc097ed" alt="Natnawat Panisarasirikul">
 
 Hi! I’m **Natnawat Panisarasirikul**, but you can call me SMART.  
@@ -15,7 +15,7 @@ Hi! I’m **Natnawat Panisarasirikul**, but you can call me SMART.
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 Here are some exciting projects I’m currently working on:
 - **JustProj:** A scalable project tracking tool for managing tasks and teams.  
   - **Stack:** Next.js/Vue.js, Express, MongoDB  
@@ -26,15 +26,24 @@ Here are some exciting projects I’m currently working on:
 
 ---
 
-## 🛠️ Past Projects
-| Project Name       | Description                                                | Links                                  |
-|--------------------|------------------------------------------------------------|----------------------------------------|
-| **Share Bill**     | A web app that simplifies bill splitting among groups.      | [GitHub Repo](https://github.com/LordEaster/share-bill), [Visit Project](https://sharebill.bsospace.com) |
-| **Game Go Green**  | Online board game promoting environmental awareness.        | [GitHub Repo](https://github.com/LordEaster/GameGoGreen/releases) |
+## Certifications & Achievements
+- **IT Specialist**: Cybersecurity — Certiport / Pearson  
+  *Demonstrates foundational knowledge of cybersecurity principles, threat awareness, and secure system practices.*  
+  [Certificate](https://drive.google.com/file/d/1LKgu3sAQsTBP-WNx5q_qLM1ry6D6Vs8L/view?usp=sharing)  
+
+- **Ranked 61st out of 709 teams**, *Hack The Scammer CTF 2025 (Qualifying Round)* —  
+  Leaderboard (BSOSPACE Team)  
+
+- **Popular Vote Award**, Vision-Language Model for Smart Manufacturing Hackathon  
+  *(Organized by CMKL University and the AI Engineering Institute – AIEI)*  
+  [Certificate](https://drive.google.com/file/d/11b8_NgxEhgLsPa8i-_gbFnjgutW91apz/view?usp=sharing)  
+
+- **Google Project Management Professional Certificate** (Offered by Google, Coursera)  
+  [Certificate](https://www.coursera.org/account/accomplishments/specialization/42OYFFH2WJ44)  
 
 ---
 
-## 🌱 Learning Journey
+## Learning Journey
 Technologies and concepts I’m currently diving into:
 - **Frontend Development:** Vue.js, Next.js  
 - **Backend Development:** MongoDB, Express  
