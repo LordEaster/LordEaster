@@ -1,4 +1,4 @@
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32029%26minutes%3D1440)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32029)](https://codetime.dev)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Natnawat Panisarasirikul (SMART) | LordEaster
 
 ## About Me
@@ -45,7 +45,7 @@ Here are some exciting projects I’m currently working on:
 
 ## Learning Journey
 Technologies and concepts I’m currently diving into:
-- **Frontend Development:** Vue.js, Next.js  
+- **Frontend Development:** Vue.js, React.js, Next.js  
 - **Backend Development:** MongoDB, Express  
 - **AI and Machine Learning:** Exploring neural networks and data-driven insights  
 
